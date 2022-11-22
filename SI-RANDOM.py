@@ -1,5 +1,5 @@
 # Source Generated with Decompyle++
-# File: test.pyc (Python 3.9)
+# File: test.pyc (Python 3.11)
 
 import os
 import sys
